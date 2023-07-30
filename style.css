@@ -18,10 +18,28 @@ body {
 .quiz-container {
     background-color: #fff;
     border-radius: 10px;
-    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
-    width: 400px;
+    box-shadow: 0 0 10px 5px rgba(100, 100, 100, 0.1);
+    overflow: hidden;
+    width: 600px;
+    max-width: 100%
 }
 
 .quiz-header {
-    padding: 2rem;
+    padding: 4rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+button {
+    background-color: #8e44ad;
+    border: none;
+    color: white;
+    display: block;
+    font-family: inherit;
+    width: 100%;
+    font-size: 1.3rem;
+    padding: 1rem;
 }
