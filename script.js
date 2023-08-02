@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: 'Who was Anikin Skywalker\'s padawan?',
+        question: 'Who was Anakin Skywalker\'s padawan?',
         a: 'Obi-Wan Kenobi',
         b: 'Qui-Gon Jinn',
         c: 'Ahsoka Tano',
@@ -49,7 +49,7 @@ const quizData = [
         d: 'Naboo',
         correct: 'd'
     }, {
-        questions: 'What Planet was home to the Jedi Council?',
+        question: 'What Planet was home to the Jedi Council?',
         a: 'Bespin',
         b: 'Alderaan',
         c: 'Corellia',
